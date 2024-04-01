@@ -1,0 +1,6 @@
+# Common exclusions
+__pycache__
+*.env
+# Flask-specific exclusions
+venv/
+.flaskenv
